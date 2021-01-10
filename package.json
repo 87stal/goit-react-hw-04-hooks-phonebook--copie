@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-04-hooks-feedback",
+  "name": "goit-react-hw-04-hooks-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://87stal.github.io/goit-react-hw-04-hooks-feedback",
+  "homepage": "https://87stal.github.io/goit-react-hw-04-hooks-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
